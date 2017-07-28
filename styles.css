@@ -89,6 +89,19 @@ footer {
   display: inline-block;
 }
 
+/* Navigation
+----------------------------------*/
+nav {
+  text-align: center;
+}
+nav a {
+  display: inline-block;
+  padding: 15px 20px; /*top bottom, left right */
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
 /* Work Experience
 ----------------------------------*/
 .work {
